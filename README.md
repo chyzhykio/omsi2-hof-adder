@@ -33,7 +33,7 @@ The script copies all `.hof` files from the source folder directly into each veh
 
 ---
 
-# Distribute-OMSI2-HOF.ps1 (Українська)
+# omsi2-hof-adder (Українська)
 
 Powershell скрипт для розповсюдження HOF файлів поміж автобусами
 
